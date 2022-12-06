@@ -41,13 +41,13 @@
 
 * I think the biggest challenge for me was figured out how to import the data from the csv's into the tables I created in SQL. I hit a lot of errors and road blocks, but breaks and repetition won over and eventually I figured out what I needed to do.
 
-####Data Modeling
+#### Data Modeling
 ![Data_modeling](EmployeeSQL/Data_modeling.png)
 
-####Data Engineering
+#### Data Engineering
 ![Data_engineering](EmployeeSQL/Tables.png)
 
-####Data Analysis
+#### Data Analysis
 ![Data_analysis](EmployeeSQL/Query1.png)
 ![Data_analysis](EmployeeSQL/Query2.png)
 
