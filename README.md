@@ -3,9 +3,11 @@
 ## Overview of Project
 
 ### Data Modeling 
+   
     * Entity Relationship Diagram is included or table schemas provided for all tables
 
-###Data Engineeing
+### Data Engineeing
+    
     * All required columns are defined for each table 
     * Columns are set to the correct data type 
     * Primary Keys set for each table 
@@ -14,7 +16,8 @@
     * Correctly uses NOT NULL condition on necessary columns 
     * Accurately defines value length for columns 
 
-###Data Analysis
+### Data Analysis
+   
     * List the employee number, last name, first name, sex, and salary of each employee 
     * List the first name, last name, and hire date for the employees who were hired in 1986 
     * List the manager of each department along with their department number, department name, employee number, last name, and first name 
